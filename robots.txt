@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://plioclog.github.io/sitemap.html.gz
+Sitemap: https://plioclog.github.io/app/sitemap.html.gz
+Sitemap: https://plioclog.github.io/assets/sitemap.html.gz
+Sitemap: https://plioclog.github.io/css/sitemap.html.gz
+Sitemap: https://plioclog.github.io/includes/sitemap.html.gz
+Sitemap: https://plioclog.github.io/item/sitemap.html.gz
+Sitemap: https://plioclog.github.io/src/sitemap.html.gz
